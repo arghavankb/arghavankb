@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Arghavan 👋
 
-<!--
-**arghavankb/arghavankb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer  
+✨ Driven by curiosity and continuous learning.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+- Python
+
+**Frameworks**
+- Django
+- Django REST Framework
+- FastAPI
+
+**Databases**
+- PostgreSQL
+
+**Caching & Messaging**
+- Redis
+- Celery
+
+**Tools & Infrastructure**
+- Docker
+- Airflow
+
+### 📚 Currently Exploring
+
+- System Design
+
+### 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/arghavankb/)
