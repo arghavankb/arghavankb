@@ -1,7 +1,7 @@
 # Hi, I'm Arghavan 👋
 
 💻 Backend Developer  
-✨ Driven by curiosity and continuous learning.
+✨ Driven by curiosity and continuous learning
 
 ### 🛠️ Tech Stack
 
