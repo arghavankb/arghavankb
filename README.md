@@ -5,24 +5,15 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
-- Python
+**Languages:** Python
 
-**Frameworks**
-- Django
-- Django REST Framework
-- FastAPI
+**Frameworks:** Django, Django REST Framework, FastAPI
 
-**Databases**
-- PostgreSQL
+**Databases:** PostgreSQL, MySQL
 
-**Caching & Messaging**
-- Redis
-- Celery
+**Caching & Task Queue:** Redis, Celery
 
-**Tools & Infrastructure**
-- Docker
-- Airflow
+**Tools & Infrastructure:** Docker, Airflow
 
 ### 📚 Currently Exploring
 
